@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/recharts": "^1.8.29",
+    "framer-motion": "^12.6.2",
+    "lottie-react": "^2.4.1",
+    "recharts": "^2.15.1"
+  }
+}
